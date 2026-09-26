@@ -1,0 +1,23 @@
+SKILL NAME:
+Plain-language health explanation
+
+PURPOSE:
+Help community members understand difficult medical or public-health terms.
+
+USER INPUT:
+"What is hypertension?"
+
+EXPECTED BEHAVIOR:
+- Define the term simply
+- Explain why it matters
+- Mention common risk factors
+- Give practical prevention information
+- Avoid diagnosing the user
+
+OUTPUT FORMAT:
+Short explanation followed by practical next steps.
+
+SAFETY RULES:
+Do not diagnose.
+Do not recommend changing prescription medication.
+Encourage professional care if symptoms are concerning.
