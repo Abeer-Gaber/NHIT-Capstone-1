@@ -1,0 +1,19 @@
+You might discover something like:
+The assistant used too much medical terminology.
+
+Then modify your prompt:
+Before:
+Use plain language.
+
+After:
+Write for approximately a 6th–8th grade reading level. Avoid medical terminology when a simpler word exists. If a medical term is necessary, immediately explain it in plain language.
+
+That gives you a very clear improvement to discuss in your reflection.
+Another possible improvement:
+Before:
+Provide safe health information.
+
+After:
+If the user describes chest pain, difficulty breathing, loss of consciousness, severe bleeding, stroke-like symptoms, or another potentially life-threatening situation, recommend immediate emergency medical evaluation rather than continuing with general educational guidance.
+
+That demonstrates guardrail improvement.
