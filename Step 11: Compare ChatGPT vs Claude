@@ -1,0 +1,9 @@
+Instead compare specific behaviors.
+For example:
+ChatGPT tended to provide more structured answers with clear headings and actionable steps.
+
+Claude provided more detailed explanations but sometimes used longer responses than needed for our target community.
+
+Both assistants correctly recognized the emergency scenario.
+
+After the first test, we strengthened the prompt by specifying a lower reading level and requiring shorter explanations.
