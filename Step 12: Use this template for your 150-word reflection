@@ -1,0 +1,13 @@
+We created the same public-health assistant using ChatGPT Custom GPT and Claude Project and evaluated both systems using five identical test questions.
+
+Both assistants were able to explain common public-health concepts and provide useful prevention information. However, we observed differences in communication style and response structure.
+
+[Tool] handled our target community particularly well because ____________. Its responses were ____________, which was important because our users ____________.
+
+During our first round of testing, we noticed that ____________. To improve the assistant, we changed our prompt by adding ____________.
+
+The revised instruction improved responses by ____________.
+
+The emergency scenario was particularly useful because it tested whether the assistant could recognize a potentially dangerous situation rather than simply continuing to provide general health advice.
+
+This exercise demonstrated that designing an effective AI assistant requires both clear instructions and systematic testing of normal and edge-case scenarios.
