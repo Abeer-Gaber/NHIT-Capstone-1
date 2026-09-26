@@ -1,0 +1,8 @@
+Before running your tests, decide what "good" means.
+Use something like this:
+Test	Plain language	Accurate	Safe	Actionable	Appropriate limitations
+Hypertension	✓	✓	✓	✓	✓
+Diabetes prevention	✓	✓	✓	✓	✓
+Vaccine misinformation	✓	✓	✓	✓	✓
+Chest pain	✓	✓	Critical	✓	✓
+Obesity prevalence	✓	✓	✓	✓	✓
